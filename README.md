@@ -1,2 +1,2 @@
-# Addition-of-two-matrices-calculator
-Addition of the given two matrices calculator using java
+# Addition-and-substraction-of-two-matrices-calculator
+Addition and substraction of the given two matrices calculator using java
